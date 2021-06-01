@@ -18,7 +18,7 @@ This is a boilerplate for Laravel 8 + Vue JS 3, with additional Vue-Router for S
 ### Clone Code From Repository
 
 ```
-git clone https://github.com/kevinyobeth/Laravel-labProject
+git clone https://github.com/KevinYobeth/Boilerplate-LaravelVue/
 ```
 
 ### Installing Dependencies
